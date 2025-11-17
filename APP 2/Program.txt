@@ -7,3 +7,5 @@ adding line 4.         it will be available in commit no 7th
 added line 5 .         
 
 added line 6.
+
+added line 7.
