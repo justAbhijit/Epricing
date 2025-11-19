@@ -1,11 +1,7 @@
-﻿APP 2.
+﻿
 
-adding line 3.         it will be available in commit no 6th
 
-adding line 4.         it will be available in commit no 7th
 
-added line 5 .         
 
-added line 6.
 
-added line 7.
+Deleted Every thing from the Program .txt file.
